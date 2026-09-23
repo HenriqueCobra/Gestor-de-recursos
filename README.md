@@ -193,6 +193,6 @@ O banco de dados já inicializa com usuários de demonstração para cada perfil
 
 ---
 
-## 📄 Licença
+## Licença
 
-Distribuído sob a licença MIT. Consulte `LICENSE` para mais detalhes.
+[MIT](LICENSE)
